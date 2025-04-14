@@ -2,8 +2,6 @@
 
 A beautiful, responsive, and interactive landing page for a fictional bank. Built using modern **HTML**, **CSS**, and **JavaScript**, this project focuses on advanced UI/UX features, DOM manipulation, and performance optimization techniques like lazy loading and intersection observers.
 
-![Bankist Landing Page](./bankist-landing-page-preview.png)
-
 ---
 
 ## 🚀 Features
